@@ -1,0 +1,6 @@
+C:\Users\FERNANDO\source\repos\BIPVG\bin\Debug\BIPVG.dll
+C:\Users\FERNANDO\source\repos\BIPVG\bin\Debug\BIPVG.pdb
+C:\Users\FERNANDO\source\repos\BIPVG\obj\Debug\BIPVG.csproj.AssemblyReference.cache
+C:\Users\FERNANDO\source\repos\BIPVG\obj\Debug\BIPVG.csproj.CoreCompileInputs.cache
+C:\Users\FERNANDO\source\repos\BIPVG\obj\Debug\BIPVG.dll
+C:\Users\FERNANDO\source\repos\BIPVG\obj\Debug\BIPVG.pdb
